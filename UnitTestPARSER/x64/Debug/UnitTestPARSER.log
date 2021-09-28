@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  UnitTestPARSER.cpp
+D:\PROJECTS\C# training\UDP_server_KSKS1\UnitTestPARSER\UnitTestPARSER.cpp(38,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

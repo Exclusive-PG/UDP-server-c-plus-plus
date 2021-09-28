@@ -1,0 +1,4 @@
+﻿  UnitTest_Lab1.cpp
+D:\PROJECTS\C# training\UDP_server_KSKS1\UnitTest_Lab1\UnitTest_Lab1.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\PROJECTS\C# training\UDP_server_KSKS1\UnitTest_Lab1\UnitTest_Lab1.cpp(20,17): warning C4101: 'parser': unreferenced local variable
+  UnitTest_Lab1.vcxproj -> D:\PROJECTS\C# training\UDP_server_KSKS1\Debug\UnitTest_Lab1.dll

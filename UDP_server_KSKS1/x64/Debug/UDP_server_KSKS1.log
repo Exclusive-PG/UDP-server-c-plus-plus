@@ -1,0 +1,9 @@
+﻿  parserCMD.cpp
+D:\PROJECTS\C# training\UDP_server_KSKS1\UDP_server_KSKS1\parserCMD.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\PROJECTS\C# training\UDP_server_KSKS1\UDP_server_KSKS1\parserCMD.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\PROJECTS\C# training\UDP_server_KSKS1\UDP_server_KSKS1\parserCMD.cpp(53): warning C4172: returning address of local variable or temporary: arrayData
+D:\PROJECTS\C# training\UDP_server_KSKS1\UDP_server_KSKS1\parserCMD.cpp(71): warning C4172: returning address of local variable or temporary: arrayData
+D:\PROJECTS\C# training\UDP_server_KSKS1\UDP_server_KSKS1\parserCMD.cpp(82): warning C4172: returning address of local variable or temporary: arrayData
+D:\PROJECTS\C# training\UDP_server_KSKS1\UDP_server_KSKS1\parserCMD.cpp(89): warning C4172: returning address of local variable or temporary: arrayData
+D:\PROJECTS\C# training\UDP_server_KSKS1\UDP_server_KSKS1\parserCMD.cpp(93): warning C4172: returning address of local variable or temporary: arrayData
+  UDP_server_KSKS1.vcxproj -> D:\PROJECTS\C# training\UDP_server_KSKS1\x64\Debug\UDP_server_KSKS1.exe
